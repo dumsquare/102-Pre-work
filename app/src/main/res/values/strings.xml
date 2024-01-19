@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">102-Pre-work</string>
+    <string name="description_text">My name is David and I like art, computer science, and sociology</string>
+    <string name="button_text">SAY HELLO!</string>
+</resources>
